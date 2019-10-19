@@ -27,3 +27,5 @@ samples, guidance on mobile development, and a full API reference.
    <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/2.jpg" width="300px">
    <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/4.png" width="300px">
  </div>
+
+[《基于Flutter的众筹APP（banner轮播、sqlite数据库）》](https://blog.csdn.net/lanye233/article/details/90902139)
