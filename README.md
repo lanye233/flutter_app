@@ -22,3 +22,8 @@ samples, guidance on mobile development, and a full API reference.
    <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/3.png" width="250px">
    <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/5.jpg" width="250px">
  </div>
+ 
+ <div align=center>
+   <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/2.jpg" width="250px">
+   <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/4.png" width="250px">
+ </div>
