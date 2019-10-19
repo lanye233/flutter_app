@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## My application screenshots
 
  <div align=center>
-   <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/1.png" width="360px">
-   <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/3.png" width="360px">
-   <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/5.png" width="360px">
+   <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/1.png" width="250px">
+   <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/3.png" width="250px">
+   <img src="https://github.com/lanye233/flutter_app/blob/master/appScreenshots/5.png" width="250px">
  </div>
